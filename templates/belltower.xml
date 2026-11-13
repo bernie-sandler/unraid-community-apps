@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>belltower</Name>
+  <Name>Belltower</Name>
   <Repository>ghcr.io/bernie-sandler/belltower:latest</Repository>
   <Registry>https://github.com/bernie-sandler/Belltower/pkgs/container/belltower</Registry>
   <Network>bridge</Network>
