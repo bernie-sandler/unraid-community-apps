@@ -2,7 +2,7 @@
   <Profile>
     Community Applications templates for Unraid, providing installation and configuration definitions for Docker applications maintained by me. Includes application metadata, container settings, icons, and supporting resources.
   </Profile>
-  <Icon>https://raw.githubusercontent.com/bernie-sandler/unraid-community-apps/refs/heads/main/logo.png</Icon>
+  <Icon>https://raw.githubusercontent.com/bernie-sandler/unraid-community-apps/refs/heads/main/logo.svg</Icon>
   <WebPage>https://github.com/bernie-sandler/unraid-community-apps/</WebPage>
   <!-- Optional support links -->
   <Forum>https://github.com/bernie-sandler/unraid-community-apps/discussions</Forum>
