@@ -1,6 +1,6 @@
 <CommunityApplications>
   <Profile>
-    Self-hosted ticketing for homelabs and small teams.
+    Community Applications templates for Unraid, providing installation and configuration definitions for Docker applications maintained by me. Included application metadata, container settings, icons, and supporting resources.
   </Profile>
   <Icon>https://raw.githubusercontent.com/bernie-sandler/unraid-community-apps/refs/heads/main/logo.png</Icon>
   <WebPage>https://github.com/bernie-sandler/unraid-community-apps/</WebPage>
