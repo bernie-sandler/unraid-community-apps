@@ -1,11 +1,11 @@
 <CommunityApplications>
   <Profile>
-    Self-hosted ticketing for homelabs and small teams.
+    Community Applications templates for Unraid, providing installation and configuration definitions for Docker applications maintained by me. Includes application metadata, container settings, icons, and supporting resources.
   </Profile>
-  <Icon>https://raw.githubusercontent.com/bernie-sandler/Belltower/748fd6ce3432dec9115bbe04e37fff50dc520d4e/assets/belltower-logo.svg</Icon>
-  <WebPage>https://github.com/bernie-sandler/Belltower/</WebPage>
+  <Icon>https://raw.githubusercontent.com/bernie-sandler/unraid-community-apps/refs/heads/main/logo.png</Icon>
+  <WebPage>https://github.com/bernie-sandler/unraid-community-apps/</WebPage>
   <!-- Optional support links -->
-  <Forum>https://github.com/bernie-sandler/Belltower/issues</Forum>
+  <Forum>https://github.com/bernie-sandler/unraid-community-apps/discussions</Forum>
   <!-- <Discord>https://discord.gg/YOUR_INVITE_CODE</Discord> -->
   <!-- Optional profile extras -->
   <!-- <DonateLink>https://github.com/sponsors/YOUR_GITHUB_USERNAME</DonateLink> -->
