@@ -17,7 +17,7 @@ Optional extras: a public submit page so friends and family can report problems 
 On first start the container log prints a one-time setup code; open the WebUI and use it to choose your password (or set Password below).</Overview>
   <Category>Productivity</Category>
   <WebUI>http://[IP]:[PORT:8080]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/bernie-sandler/Belltower/main/unraid/belltower.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/bernie-sandler/unraid-community-apps/refs/heads/main/templates/belltower.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/bernie-sandler/Belltower/main/web/public/icon-512.png</Icon>
   <ExtraParams>--init --stop-timeout=30</ExtraParams>
   <PostArgs/>
