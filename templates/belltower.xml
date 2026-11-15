@@ -33,6 +33,10 @@ On first start the container log prints a one-time setup code; open the WebUI an
     <Tag>rc</Tag>
     <TagDescription>Release candidates: the next stable version, for testing</TagDescription>
   </Branch>
+  <Branch>
+    <Tag>dev</Tag>
+    <TagDescription>Development builds with the latest changes; may be unstable.</TagDescription>
+  </Branch>
   <Config Name="WebUI Port" Target="8080" Default="8080" Mode="tcp" Description="Port to open the app on, e.g. http://tower:8080." Type="Port" Display="always" Required="true" Mask="false">8080</Config>
   <Config Name="Data" Target="/data" Default="/mnt/user/appdata/belltower" Mode="rw" Description="Database, attachments and backups. SQLite should not go through Unraid's user-share (FUSE) layer: keep this share on a pool with Exclusive access, or use the pool path directly (e.g. /mnt/cache/appdata/belltower)." Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/belltower</Config>
   <Config Name="Password" Target="APP_PASSWORD" Default="" Mode="" Description="Optional. If set, this is the login password and it can't be changed in the app. Leave empty to choose a password in the browser using the setup code from the container log." Type="Variable" Display="always" Required="false" Mask="true"/>
