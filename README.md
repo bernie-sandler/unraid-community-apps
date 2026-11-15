@@ -22,9 +22,9 @@ unraid-community-apps/
 
 ## Available Applications
 Applications will be listed here as they are added.
-|Application|Description|Status|
-|---|---|---|
-|[Belltower](https://github.com/bernie-sandler/Belltower)|Self-hosted ticketing for homelabs and small teams. Ring the bell when something breaks.|![Status](https://img.shields.io/badge/Released-In_Development-007ec6?labelColor=2ea44f)|
+|Application|Version|Description|Status|
+|---|---|---|---|
+|[Belltower](https://github.com/bernie-sandler/Belltower)|![Release](https://img.shields.io/github/v/release/bernie-sandler/Belltower?include_prereleases&sort=semver)|Self-hosted ticketing for homelabs and small teams. Ring the bell when something breaks.|![Status](https://img.shields.io/badge/Released-In_Development-007ec6?labelColor=2ea44f)|
 
 
 ## Installation
